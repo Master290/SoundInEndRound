@@ -24,7 +24,7 @@ Add button for menu(ChooseMusic Action)
 # Step 4
 Add for button function(Menu_Callback)
   Example:
-    ![image](https://github.com/zloybik/SoundInEndRound/assets/106350231/2ad0de17-7444-4d14-a3e0-bc908a8c3a6e)
+  ![image](https://github.com/zloybik/SoundInEndRound/assets/106350231/2ad0de17-7444-4d14-a3e0-bc908a8c3a6e)
 
 # STEP 5
 Compiling(Just use CRTL + SHIFT + D or manually) and add plugin and music.
