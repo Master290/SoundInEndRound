@@ -19,7 +19,8 @@ Add command for playing music
 # Step 3
 Add button for menu(ChooseMusic Action)
   Example:
-    ![image](https://github.com/zloybik/SoundInEndRound/assets/106350231/06ec8e97-4278-4a69-9b6e-c1f899663b63)
+  
+  ![image](https://github.com/zloybik/SoundInEndRound/assets/106350231/06ec8e97-4278-4a69-9b6e-c1f899663b63)
 
 # Step 4
 Add for button function(Menu_Callback)
